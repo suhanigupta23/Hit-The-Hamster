@@ -1,5 +1,6 @@
-**Hit The Hamster**
+## **Hit The Hamster**
 <br>
+
 ## **Description**
 Hit maximum number of hamster popping out within a given time frame of 30sec.
 
