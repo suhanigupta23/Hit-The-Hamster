@@ -1,4 +1,4 @@
-## **Hit The Hamster**
+**<center> Hit The Hamster </center>**
 <br>
 
 ## **Description**
