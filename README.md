@@ -1,12 +1,12 @@
-Hit_the_hamster
+**Hit The Hamster**
 <br>
-## **Description 📃**
+## **Description**
 Hit maximum number of hamster popping out within a given time frame of 30sec.
 
 ## **How to play? 🕹️**
 Click on hamster to score as much as you can
 
-## **functionalities 🎮**
+## **Functionalities 🎮**
 Made using HTML ,CSS and JS. 
 <br>
 <br>
