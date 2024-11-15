@@ -1,4 +1,4 @@
-**<center> Hit The Hamster </center>**
+**<h2> Hit The Hamster</h2>** 
 <br>
 
 ## **Description**
