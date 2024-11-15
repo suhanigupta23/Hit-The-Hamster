@@ -8,4 +8,5 @@ Hit maximum number of hamster popping out within a given time frame of 30sec by 
 Made using HTML ,CSS and JS. 
 <br>
 <br>
-<img width="1352" src="https://github.com/kunjgit/GameZone/assets/144280247/9827e9f0-cbc5-40fa-9307-742898bfbef7">
+
+<img width="787" alt="Screenshot 2024-11-15 at 11 55 37 AM" src="https://github.com/user-attachments/assets/04e0c152-2f41-45ce-b16f-42ca3fd764d5">
