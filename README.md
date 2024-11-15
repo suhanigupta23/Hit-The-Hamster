@@ -1,10 +1,8 @@
 **<h2> Hit The Hamster</h2>** 
-Hit maximum number of hamster popping out within a given time frame of 30sec.
+Hit maximum number of hamster popping out within a given time frame of 30sec by clicking on hamster and score as much as you can.
 <br>
 ![ina-bonk](https://github.com/user-attachments/assets/1e7e8712-1859-44da-b2ac-4a1dcb0b9915)
 
-## **How to play? 🕹️**
-Click on hamster to score as much as you can
 
 ## **Functionalities 🎮**
 Made using HTML ,CSS and JS. 
